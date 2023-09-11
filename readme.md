@@ -30,4 +30,4 @@ Customization
 If you have a specific type of coin or need to customize the detection, you can fine-tune the YOLO model with your own images. Refer to the documentation for details.
 
 Support
-For any questions or issues, please create a GitHub issue or contact us at your@email.com.
+For any questions or issues, please create a GitHub issue or contact us at saad992.sm@gmail.com.
